@@ -1,0 +1,37 @@
+@media screen and (max-width:480px){
+    .main-name{
+        margin: 5px 0px;
+        cursor: pointer;
+        color: #262134;
+        text-align: center;
+        
+    }
+    /* .main-name:hover{
+        border-bottom: 1px solid #262134;
+        text-align: center;
+        
+    } */
+}
+@media screen and (max-width:133px){
+    .main-name{
+        margin: 5px 0px;
+        cursor: pointer;
+        color: #262134;
+        text-align: center;
+        
+    }
+    /* .main-name:hover{
+        border-bottom: 1px solid #262134;
+        text-align: center;
+        
+    } */
+} 
+@media screen and (max-width:5px){
+    .main-name{
+        margin: 5px 0px;
+        cursor: pointer;
+        color: #262134;
+        text-align: left;
+        
+    }
+}
