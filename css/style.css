@@ -3911,7 +3911,7 @@ textarea.form-control-lg {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-top: 3px;
-  border-radius: 28px;
+  border-radius: 0px;
 }
 .navbar > .container,
 .navbar > .container-fluid,
