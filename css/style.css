@@ -1,5 +1,3 @@
-
-
 /* Bootstrap */
 
 @charset "UTF-8";
@@ -63,6 +61,12 @@ body {
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
+
+.alert-danger{
+  text-align: center;
+}
+
+
 
 hr {
   margin: 1rem 0;
@@ -3906,6 +3910,8 @@ textarea.form-control-lg {
   justify-content: space-between;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
+  margin-top: 3px;
+  border-radius: 28px;
 }
 .navbar > .container,
 .navbar > .container-fluid,
@@ -4687,6 +4693,7 @@ textarea.form-control-lg {
   color: #842029;
   background-color: #f8d7da;
   border-color: #f5c2c7;
+  margin: 7px 0;
 }
 .alert-danger .alert-link {
   color: #6a1a21;
