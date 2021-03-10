@@ -1,37 +1,23 @@
-@media screen and (max-width:480px){
-    .main-name{
-        margin: 5px 0px;
-        cursor: pointer;
-        color: #262134;
+@media screen and (max-width:92px){
+    .Name{
         text-align: center;
-        
+        text-decoration: none;
+        font-size: 10px;
     }
-    /* .main-name:hover{
-        border-bottom: 1px solid #262134;
-        text-align: center;
-        
-    } */
+    .Name a{
+        text-decoration: none;
+        color: #EA4335;
+        border-bottom: 1px solid #EA4335;
+    }
 }
-@media screen and (max-width:133px){
-    .main-name{
-        margin: 5px 0px;
-        cursor: pointer;
-        color: #262134;
+@media screen and (max-width:55px){
+    .Name{
         text-align: center;
-        
+        text-decoration: none;
+        font-size: 8px;
     }
-    /* .main-name:hover{
-        border-bottom: 1px solid #262134;
-        text-align: center;
-        
-    } */
-} 
-@media screen and (max-width:5px){
-    .main-name{
-        margin: 5px 0px;
-        cursor: pointer;
-        color: #262134;
-        text-align: left;
-        
+    .Name a{
+        text-decoration: none;
+        color: #EA4335;
     }
 }
